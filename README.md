@@ -1,13 +1,13 @@
 ### Hi, I'm Irsyad
 
-Engineer and founder based in Singapore. I run [Pixelmind Studio](https://pixelmindstudio.co) — a small studio shipping products for clients and ourselves. On the side I build indie apps under my own name.
+Engineer and founder based in Singapore. I run [Pixelmind Studio](https://pixelmindstudio.co), a small studio shipping products for clients and ourselves. On the side I build indie apps under my own name.
 
 **Featured work**
 
-- [My Way](https://irsyad.dev) — habit & life-tracking app, on the App Store
-- [Manis](https://github.com/mdchad/manis) — marketplace for modest secondhand fashion
-- [myHadeethApp](https://github.com/mdchad/myHadeethApp) — Hadith reader for iOS & Android
+- [My Way](https://myway.my) — Hadith reader app, on the App Store
+- [Manis](https://github.com/mdchad/manis) — Marketplace for modest secondhand fashion
 - [meja](https://github.com/mdchad/meja) — native MongoDB client built with Tauri
+- [tebuk](https://github.com/mdchad/tebuk) — a Quran randomiser website
 
 **Currently** — building at Pixelmind and shipping side projects when I can.
 
